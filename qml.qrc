@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/zmicon.png</file>
+        <file>MonitorListPage.qml</file>
+        <file>IconFont.js</file>
+        <file>fonts/MaterialIcons-Regular.ttf</file>
+        <file>SettingsPage.qml</file>
+        <file>MonitorDelegate.qml</file>
+        <file>GridSettingsPage.qml</file>
+        <file>GridEditPage.qml</file>
+        <file>MonitorDetailPage.qml</file>
+        <file>GridWindow.qml</file>
+    </qresource>
+</RCC>
